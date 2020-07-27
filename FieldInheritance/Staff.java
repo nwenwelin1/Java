@@ -3,7 +3,6 @@ package prj2;
 public class Staff extends Person {
 	String school;
 	double pay;
-	String name,address;
 	Staff(String name, String address, String sc, double pay){
 		super(name,address);
 		this.school=sc;
