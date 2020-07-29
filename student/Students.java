@@ -19,13 +19,11 @@ public class Students {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Map <String,Students> stuList = new HashMap <String,Students> ();
-		stuList.put("aye moe kyaw", new Students("aye moe kyaw","12345","5cs-12","Monywa"));
-		stuList.put("moe moe", new Students("moe moe","12333505105","5cs-2","Sagaing"));
-		stuList.put("aye moe lwin", new Students("aye moe lwin","198345","5cs-1","Yangon"));
-		stuList.put("moe khin", new Students("moe khin","120345","5cs-10","Monywa"));
-		stuList.put("su su", new Students("su su","2690606","5cs-8","Kalay"));
-		
-	
+		stuList.put("Aye Moe Kyaw", new Students("Aye Moe Kyaw","12345","5cs-12","Monywa"));
+		stuList.put("Moe Moe", new Students("Moe Moe","12333505105","5cs-2","Sagaing"));
+		stuList.put("Aye Moe Lwin", new Students("Aye Moe Lwin","198345","5cs-1","Yangon"));
+		stuList.put("Moe Khin", new Students("Moe Khin","120345","5cs-10","Monywa"));
+		stuList.put("Su Su", new Students("Su Su","2690606","5cs-8","Kalay"));
 		
 		Students student,stu;
 		 
