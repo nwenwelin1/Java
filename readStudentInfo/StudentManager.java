@@ -63,13 +63,4 @@ public class StudentManager {
         }
         return studentList;
 	}
-//	public static String updateStudentInfo() {
-//		ArrayList <Student> sList = new ArrayList <Student> ();
-//		Scanner sc = new Scanner(System.in);
-//		System.out.println("Enter Student's name if you want to update: ");
-// 		String updateName = sc.nextLine();
-// 		
-// 		if(updateName.equals())
-//	}
-
 }
